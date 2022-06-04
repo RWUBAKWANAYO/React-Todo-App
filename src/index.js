@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 
 // component file
-import TodoContainer from './classBased/components/TodoContainer';
+import TodoContainer from './functionBased/components/TodoContainer';
 
 // stylesheet
 import './App.css';
